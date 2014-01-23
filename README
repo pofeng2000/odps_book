@@ -1,0 +1,23 @@
+This is the example code for odps book.
+
+[Prerequisit]
+Before running the examples, you need to create an account,
+install odps clt as explained in the book.
+
+[Chapters]
+ch01 -  Meet ODPS
+ch02 -  ODPS Architecture
+ch03 -  ODPS Tunnel
+ch04 -  Meet ODPS MapReduce
+ch05 -  Dig into ODPS MapReduce
+ch06 -  ODPS SQL
+ch07 -  ODPs Security
+ch08 -  ODPS RESTful API
+ch09 -  ODPS SDK
+ch10 -  ODPS XLIB
+ch11 -  ODPs ODPS Graph
+ch12 -  RODPS
+ch13 -  Dig into ODPS "Kernel"
+ch14 -  ODPS Practice
+
+
